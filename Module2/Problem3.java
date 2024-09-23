@@ -27,7 +27,31 @@ public class Problem3 {
         //TODO convert each value to positive
         //set the result to the proper index of the output array and maintain the original data type
         //hint: don't forget to handle the data types properly, the result datatype should be the same as the original datatype
-        
+        //rra23 9/23/24
+        for(int i = 0; i < arr.length; i++){
+            output[i] = arr[i];
+        }
+
+        if(arr.getClass() == Integer[].class){
+            for(int i = 0; i < arr.length; i++){
+                if((int)arr[i] <0){
+                    output[i] = (int)arr[i] *-1;      
+                } 
+            }
+        }   
+        if(arr.getClass() == Double[].class){
+            for(int i = 0; i < arr.length; i++){
+                if((double)arr[i] < 0){
+                    output[i] = (double)arr[i] *-1;      
+                } 
+            }
+        }
+
+        if(arr.getClass() == String[].class){
+            for(int i = 0; i < arr.length; i++){
+                output[i] = String.valueOf(arr[i]).replace("-", "");
+            }
+        }
         //end edit section
 
         StringBuilder sb = new StringBuilder();
