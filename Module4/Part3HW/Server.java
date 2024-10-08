@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.Arrays;
+import java.util.Random;
 
 public class Server {
     private int port = 3000;
@@ -100,6 +102,22 @@ public class Server {
         });
     }
 
+    //rra23 10/7/23
+    protected synchronized void coinflip(){
+        Random rand = new Random();
+        int val = rand.nextInt(2);
+        switch(val){
+            case 0:
+                relay("Heads", null);
+                break;
+            case 1:
+                relay("Tails", null);
+                break;
+        }
+    }
+
+    }
+
     /**
      * Attempts to see if the message is a command and process its action
      * 
@@ -121,6 +139,12 @@ public class Server {
             return true;
         }
         // add more "else if" as needed
+        //rra23 10/7/24
+        else if ("/coinflip".equalsIgnoreCase(message)) {
+            coinflip();
+            return true;
+        }
+
         return false;
     }
 
