@@ -21,6 +21,7 @@ public enum Server {
         }));
     }
 
+    //rra23 10-17-24
     private void start(int port) {
         this.port = port;
         // server listening
@@ -50,7 +51,7 @@ public enum Server {
     /**
      * Gracefully disconnect clients
      */
-    private void shutdown() {
+    private void shutdown() { //rra23 10-17-24
         try {
             //chose removeIf over forEach to avoid potential ConcurrentModificationException
             //since empty rooms tell the server to remove themselves
@@ -86,7 +87,7 @@ public enum Server {
      * @param name Unique name of the room
      * @return true if it was created and false if it wasn't
      */
-    protected boolean createRoom(String name) {
+    protected boolean createRoom(String name) { //rra23 10-17-24
         final String nameCheck = name.toLowerCase();
         if (rooms.containsKey(nameCheck)) {
             return false;
@@ -104,7 +105,7 @@ public enum Server {
      * @param client the client moving
      * @return true if the move was successful, false otherwise
      */
-    protected boolean joinRoom(String name, ServerThread client) {
+    protected boolean joinRoom(String name, ServerThread client) { //rra23 10-17-24
         final String nameCheck = name.toLowerCase();
         if (!rooms.containsKey(nameCheck)) {
             return false;

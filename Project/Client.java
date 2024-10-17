@@ -63,6 +63,8 @@ public enum Client {
      * @param port
      * @return true if connection was successful
      */
+
+     //rra23 10-17-24
     private boolean connect(String address, int port) {
         try {
             server = new Socket(address, port);
@@ -128,7 +130,7 @@ public enum Client {
         } else if ("/quit".equalsIgnoreCase(text)) {
             close();
             return true;
-        } else if (text.startsWith("/name")) {
+        } else if (text.startsWith("/name")) { //rra23 10-17-24
             myData.setClientName(text.replace("/name", "").trim());
             System.out.println(TextFX.colorize("Set client name to " + myData.getClientName(), Color.CYAN));
             return true;
@@ -178,7 +180,7 @@ public enum Client {
      * 
      * @param room
      */
-    private void sendCreateRoom(String room) {
+    private void sendCreateRoom(String room) { //rra23 10-17-24
         Payload p = new Payload();
         p.setPayloadType(PayloadType.ROOM_CREATE);
         p.setMessage(room);
@@ -190,7 +192,7 @@ public enum Client {
      * 
      * @param room
      */
-    private void sendJoinRoom(String room) {
+    private void sendJoinRoom(String room) { //rra23 10-17-24
         Payload p = new Payload();
         p.setPayloadType(PayloadType.ROOM_JOIN);
         p.setMessage(room);
@@ -200,7 +202,7 @@ public enum Client {
     /**
      * Tells the server-side we want to disconnect
      */
-    private void sendDisconnect() {
+    private void sendDisconnect() { //rra23 10-17-24
         Payload p = new Payload();
         p.setPayloadType(PayloadType.DISCONNECT);
         send(p);
@@ -211,6 +213,7 @@ public enum Client {
      * 
      * @param message
      */
+    //rra23 10-17-24
     private void sendMessage(String message) {
         Payload p = new Payload();
         p.setPayloadType(PayloadType.MESSAGE);
@@ -247,6 +250,7 @@ public enum Client {
     }
     // end send methods
 
+    //rra23 10-17-24
     public void start() throws IOException {
         System.out.println("Client starting");
 
@@ -289,6 +293,7 @@ public enum Client {
     /**
      * Listens for keyboard input from the user
      */
+    //rra23 10-17-24
     private void listenToInput() {
         try (Scanner si = new Scanner(System.in)) {
             System.out.println("Waiting for input"); // moved here to avoid console spam
@@ -390,7 +395,7 @@ public enum Client {
                     processRoomAction(cp.getClientId(), cp.getClientName(), cp.getMessage(), cp.isConnect());
                     break;
                 case PayloadType.MESSAGE: // displays a received message
-                    processMessage(payload.getClientId(), payload.getMessage());
+                    processMessage(payload.getClientId(), payload.getMessage()); //rra23 10-17-24
                     break;
                 default:
                     break;
@@ -403,7 +408,7 @@ public enum Client {
 
     // payload processors
 
-    private void processDisconnect(long clientId, String clientName) {
+    private void processDisconnect(long clientId, String clientName) {  //rra23 10-17-24
         System.out.println(
                 TextFX.colorize(String.format("*%s disconnected*",
                         clientId == myData.getClientId() ? "You" : clientName),
@@ -421,6 +426,7 @@ public enum Client {
         }
     }
 
+    //rra23 10-17-24
     private void processMessage(long clientId, String message) {
         String name = knownClients.containsKey(clientId) ? knownClients.get(clientId).getClientName() : "Room";
         System.out.println(TextFX.colorize(String.format("%s: %s", name, message), Color.BLUE));

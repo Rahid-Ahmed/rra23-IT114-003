@@ -83,7 +83,7 @@ public class ServerThread extends BaseServerThread {
     }
     // handle received message from the Client
     @Override
-    protected void processPayload(Payload payload) {
+    protected void processPayload(Payload payload) { //rra23 10-17-24
         try {
             switch (payload.getPayloadType()) {
                 case CLIENT_CONNECT:
@@ -139,7 +139,7 @@ public class ServerThread extends BaseServerThread {
      * @param message
      * @return @see {@link #send(Payload)}
      */
-    public boolean sendMessage(long senderId, String message) {
+    public boolean sendMessage(long senderId, String message) { //rra23 10-17-24
         Payload p = new Payload();
         p.setClientId(senderId);
         p.setMessage(message);

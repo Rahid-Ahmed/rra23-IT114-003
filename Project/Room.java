@@ -206,7 +206,7 @@ public class Room implements AutoCloseable{
     // end send data to client(s)
 
     // receive data from ServerThread
-    protected void handleCreateRoom(ServerThread sender, String room) {
+    protected void handleCreateRoom(ServerThread sender, String room) { //rra23 10-17-24
         if (Server.INSTANCE.createRoom(room)) {
             Server.INSTANCE.joinRoom(room, sender);
         } else {
@@ -214,7 +214,7 @@ public class Room implements AutoCloseable{
         }
     }
 
-    protected void handleJoinRoom(ServerThread sender, String room) {
+    protected void handleJoinRoom(ServerThread sender, String room) { //rra23 10-17-24
         if (!Server.INSTANCE.joinRoom(room, sender)) {
             sender.sendMessage(String.format("Room %s doesn't exist", room));
         }
