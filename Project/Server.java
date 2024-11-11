@@ -124,6 +124,29 @@ public enum Server {
         System.out.println(String.format("Server removed room %s", room.getName()));
     }
 
+     //rra23 11/10/24
+     protected int roll(String roll){
+        String[] parts = roll.split("d");
+
+        int result = -1;
+
+        if (parts.length == 1){
+            result = (int) (Math.random()) * Integer.parseInt(parts[0] + 1);
+            return result;
+        }
+        else if (parts.length ==2){
+            int numberOfDie = Integer.parseInt(parts[0]);
+            int max = Integer.parseInt(parts[1]);
+            for (int i = 0; i == numberOfDie; i++){
+                result = (int) (Math.random()) * Integer.parseInt(parts[1] + 1);
+            }
+            return result;
+        }
+        else {
+            throw new IllegalArgumentException("Wrong format. Please try again.");
+        }
+    }
+
     public static void main(String[] args) {
         System.out.println("Server Starting");
         Server server = Server.INSTANCE;

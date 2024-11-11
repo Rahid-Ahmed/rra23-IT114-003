@@ -4,6 +4,7 @@
 ./ConnectionPayload.java
 ./Payload.java
 ./PayloadType.java
+./RollPayload.java
 ./Room.java
 ./Server.java
 ./ServerThread.java

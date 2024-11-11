@@ -1,5 +1,6 @@
 package Project;
 
+import java.io.IOException;
 import java.net.Socket;
 import java.util.Objects;
 import java.util.function.Consumer;
@@ -102,6 +103,11 @@ public class ServerThread extends BaseServerThread {
                 case DISCONNECT:
                     currentRoom.disconnect(this);
                     break;
+                case ROLL:
+                    currentRoom.roll(payload.getMessage(), this); //rra23 11/10/24
+                    break;
+                case FLIP:
+                    currentRoom.flip(this); //rra23 11/11/24
                 default:
                     break;
             }
@@ -164,6 +170,24 @@ public class ServerThread extends BaseServerThread {
         cp.setClientId(clientId);
         cp.setClientName(clientName);
         return send(cp);
+    }
+
+    //rra23 11/10/24
+    public boolean sendRoll(long ClientId, String message){
+        Payload rp = new Payload();
+        rp.setPayloadType(PayloadType.ROLL);
+        rp.setClientId(ClientId);
+        rp.setMessage(message);
+        return send(rp);
+    }
+
+    //rra23 11/11/24
+    public boolean sendFlip(long ClientId, String message){
+        Payload fp = new Payload();
+        fp.setPayloadType(PayloadType.FLIP);
+        fp.setClientId(ClientId);
+        fp.setMessage(message);
+        return send(fp);
     }
 
     /**
