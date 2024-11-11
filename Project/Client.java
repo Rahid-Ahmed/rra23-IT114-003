@@ -139,6 +139,21 @@ public enum Client {
                     String.join("\n", knownClients.values().stream()
                             .map(c -> String.format("%s(%s)", c.getClientName(), c.getClientId())).toList()));
             return true;
+        } else if (text.startsWith("/roll")) {  //rra23 11/10/24
+            try{
+                String rollString = text.replace("/roll", "").trim();
+                sendRoll(rollString);
+            } catch (Exception e){
+                e.printStackTrace();
+            }
+            return true; 
+        } else if(text.equalsIgnoreCase("/flip")){ //rra23 11/11/24
+            try {
+                sendFlip();
+            } catch (Exception e){
+                e.printStackTrace();
+            }
+            return true;
         } else { // logic previously from Room.java
             // decided to make this as separate block to separate the core client-side items
             // vs the ones that generally are used after connection and that send requests
@@ -174,6 +189,29 @@ public enum Client {
     }
 
     // send methods to pass data to the ServerThread
+
+        //rra23 11/10/24
+        private void sendRoll(String rollString){
+            try{
+            Payload rp = new Payload();
+            rp.setPayloadType(PayloadType.ROLL);
+            rp.setMessage(rollString);
+            out.writeObject(rp);
+            } catch(Exception e){
+                e.printStackTrace();
+            }
+        }
+
+        //rra23 11/11/24
+        private void sendFlip(){
+            try{
+            Payload fp = new Payload();
+            fp.setPayloadType(PayloadType.FLIP);
+            out.writeObject(fp);
+            } catch(Exception e){
+                e.printStackTrace();
+            }
+        }
 
     /**
      * Sends the room name we intend to create
@@ -396,6 +434,12 @@ public enum Client {
                     break;
                 case PayloadType.MESSAGE: // displays a received message
                     processMessage(payload.getClientId(), payload.getMessage()); //rra23 10-17-24
+                    break;
+                case PayloadType.ROLL: //rra23 11/11/24
+                     processMessage(payload.getClientId(),payload.getMessage()); 
+                    break;
+                case PayloadType.FLIP: //rra24 11/11/24
+                    processMessage(payload.getClientId(), payload.getMessage());
                     break;
                 default:
                     break;

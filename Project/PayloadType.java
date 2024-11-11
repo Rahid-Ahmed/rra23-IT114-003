@@ -8,5 +8,6 @@ public enum PayloadType {
     ROOM_CREATE,
     ROOM_JOIN, // join/leave room based on boolean
     MESSAGE, // sender and message
-    ROLL
+    ROLL, //rra23 11/10/24 added ROLL to PayloadType
+    FLIP //rra23 11/11/24 added FLIP to PayloadType
 }

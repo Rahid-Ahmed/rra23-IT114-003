@@ -1,5 +1,6 @@
 package Project;
 
+import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class Room implements AutoCloseable{
@@ -203,6 +204,7 @@ public class Room implements AutoCloseable{
             return failedToSend;
         });
     }
+
     // end send data to client(s)
 
     // receive data from ServerThread
@@ -224,5 +226,63 @@ public class Room implements AutoCloseable{
         disconnect(sender);
     }
 
+    //rra23 11/11/24
+    protected static void roll(String roll, ServerThread client){
+        String parts[] = roll.trim().split("\\s+");
+
+        if(parts.length == 2 && parts[1].matches("\\d+d\\d+")) {
+            try {
+                String [] diceSettings = parts[1].split("d");
+                int numberOfDie = Integer.parseInt(diceSettings[0]);
+                int max = Integer.parseInt(diceSettings[1]);
+
+                StringBuilder result = new StringBuilder();
+                result.append(String.format("%s rolled %dd%d: ", client.getName(), numberOfDie, max));
+
+                int total = 0;
+
+                for (int i = 0; i<numberOfDie; i++){
+                    int currentRoll = (int) (Math.random() * max) + 1;
+                    total += currentRoll;
+                    result.append(currentRoll);
+                }
+
+                result.append(String.format(" (Total: %d)", total));
+                
+                client.sendRoll(client.getClientId(), result.toString());
+            } catch (Exception e){
+                client.sendRoll(client.getClientId(), "An error occured, please try again.");
+            }
+
+        } else if(parts.length == 1 && parts[0].matches("\\d+")){
+            try{
+                int max = Integer.parseInt(parts[0]);
+                int diceResult = (int) (Math.random() * max + 1);
+                String message = String.format("%s rolled: %d", client.getClientName(), diceResult);
+                client.sendRoll(client.getClientId(), message);
+            } catch (Exception e){
+                client.sendRoll(client.getClientId(), "An error occured, please try again.");
+            }
+        }else {
+            client.sendRoll(client.getClientId(), "An error occured, please try again.");
+        }
+    }
+
+    //rra23 11/11/24
+    protected static void flip(ServerThread client){
+        Random rand = new Random();
+        int number = rand.nextInt(2);
+        if (number == 0){
+            String case1 = client.getClientName() + "flipped a coin and got heads";
+            client.sendFlip(client.getClientId(), case1);
+        }
+        else {
+            String case2 = client.getClientName() + "flipped a coin and got tails";
+            client.sendFlip(client.getClientId(), case2);
+        }
+    }
+
     // end receive data from ServerThread
 }
+
+    
