@@ -1,5 +1,7 @@
 package Project;
 
+import java.text.CharacterIterator;
+import java.text.StringCharacterIterator;
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -187,6 +189,39 @@ public class Room implements AutoCloseable{
             return;
         }
 
+
+        //rra23 11/11/24
+        if(message.contains("**")){
+            String formattedMessage = message.replace("**", "<b>");
+            sendMessage(sender, formattedMessage);
+        }
+        
+        if(message.contains("*")){
+            String formattedMessage = message.replace("*", "<i>");
+            sendMessage(sender, formattedMessage);
+        }
+        
+        if(message.contains("_")){
+            String formattedMessage = message.replace("_", "<u>");
+            sendMessage(sender, formattedMessage);
+        }
+        
+        if(message.contains("#r")){
+            String formattedMessage = message.replace("#r", "<red>");
+            sendMessage(sender, formattedMessage);
+        }   
+
+        if(message.contains("#b")){
+            String formattedMessage = message.replace("#b", "<blue>");
+            sendMessage(sender, formattedMessage);
+        }
+
+        if(message.contains("#g")){
+            String formattedMessage = message.replace("#g", "<green>");
+            sendMessage(sender, formattedMessage);
+        }
+        
+
         // Note: any desired changes to the message must be done before this section
         long senderId = sender == null ? ServerThread.DEFAULT_CLIENT_ID : sender.getClientId();
 
@@ -203,8 +238,8 @@ public class Room implements AutoCloseable{
             }
             return failedToSend;
         });
-    }
-
+        }
+        
     // end send data to client(s)
 
     // receive data from ServerThread
@@ -273,11 +308,11 @@ public class Room implements AutoCloseable{
         Random rand = new Random();
         int number = rand.nextInt(2);
         if (number == 0){
-            String case1 = client.getClientName() + "flipped a coin and got heads";
+            String case1 = client.getClientName() + " flipped a coin and got heads";
             client.sendFlip(client.getClientId(), case1);
         }
         else {
-            String case2 = client.getClientName() + "flipped a coin and got tails";
+            String case2 = client.getClientName() + " flipped a coin and got tails";
             client.sendFlip(client.getClientId(), case2);
         }
     }
