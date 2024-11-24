@@ -1356,3 +1356,89 @@
 [34m>[0m Current panel: CONNECT
 11/24/2024 15:40:28 [Project.Client.ClientUI] ([34mFINE[0m):
 [34m>[0m Current panel: USER_INFO
+11/24/2024 15:52:01 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:52:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:52:04 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:52:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:52:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:59:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:59:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:59:31 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:59:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:59:32 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:59:32 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 15:59:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: Rahid (1)
+11/24/2024 16:00:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: B (2)
+11/24/2024 16:00:24 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:24 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: C (3)
+11/24/2024 16:00:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+11/24/2024 16:00:59 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+11/24/2024 16:13:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:13:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:13:28 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:13:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:13:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:13:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:13:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:16:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:16:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:16:05 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:16:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:16:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:16:05 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:16:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:28:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:28:47 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:28:49 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:28:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:28:50 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:28:50 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:28:50 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:31:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created

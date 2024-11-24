@@ -570,29 +570,41 @@ public enum Client {
     }
 
     private void processClientData(long clientId, String clientName) {
+
         if (myData.getClientId() == ClientData.DEFAULT_CLIENT_ID) {
             myData.setClientId(clientId);
             myData.setClientName(clientName);
+            // invoke onReceiveClientId callback
+            ((IConnectionEvents) events).onReceiveClientId(clientId);
             // knownClients.put(cp.getClientId(), myData);// <-- this is handled later
         }
     }
 
-    //rra23 10-17-24
+
+    //rra23 11-24-24
     private void processMessage(long clientId, String message) {
         String name = knownClients.containsKey(clientId) ? knownClients.get(clientId).getClientName() : "Room";
         System.out.println(TextFX.colorize(String.format("%s: %s", name, message), Color.BLUE));
+        // invoke onMessageReceive callback
+        ((IMessageEvents) events).onMessageReceive(clientId, message);
     }
 
+    //rra23 11-24-24
     private void processClientSync(long clientId, String clientName) {
+
         if (!knownClients.containsKey(clientId)) {
             ClientData cd = new ClientData();
             cd.setClientId(clientId);
             cd.setClientName(clientName);
             knownClients.put(clientId, cd);
+            // invoke onSyncClient callback
+            ((IConnectionEvents) events).onSyncClient(clientId, clientName);
         }
     }
 
+    //rra23 11-24-24
     private void processRoomAction(long clientId, String clientName, String message, boolean isJoin) {
+
         if (isJoin && !knownClients.containsKey(clientId)) {
             ClientData cd = new ClientData();
             cd.setClientId(clientId);
@@ -601,16 +613,22 @@ public enum Client {
             System.out.println(TextFX
                     .colorize(String.format("*%s[%s] joined the Room %s*", clientName, clientId, message),
                             Color.GREEN));
+            // invoke onRoomJoin callback
+            ((IRoomEvents) events).onRoomAction(clientId, clientName, message, isJoin);
         } else if (!isJoin) {
             ClientData removed = knownClients.remove(clientId);
             if (removed != null) {
                 System.out.println(
                         TextFX.colorize(String.format("*%s[%s] left the Room %s*", clientName, clientId, message),
                                 Color.YELLOW));
+                // invoke onRoomJoin callback
+                ((IRoomEvents) events).onRoomAction(clientId, clientName, message, isJoin);
             }
-            //clear our list
-            if(clientId == myData.getClientId()){
+            // clear our list
+            if (clientId == myData.getClientId()) {
                 knownClients.clear();
+                // invoke onResetUserList()
+                ((IConnectionEvents) events).onResetUserList();
             }
         }
     }

@@ -38,7 +38,7 @@ import Project.Common.LoggerUtil;
  * ChatPanel represents the main chat interface where messages can be sent and
  * received.
  */
-public class ChatPanel extends JPanel {
+public class ChatPanel extends JPanel { //rra23 11/11/24
     private JPanel chatArea = null;
     private UserListPanel userListPanel;
     private final float CHAT_SPLIT_PERCENT = 0.7f;
