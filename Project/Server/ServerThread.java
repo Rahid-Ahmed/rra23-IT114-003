@@ -99,6 +99,12 @@ public class ServerThread extends BaseServerThread {
                     break;
                 case MESSAGE:
                     currentRoom.sendMessage(this, payload.getMessage());
+                    if (payload.getMessage().contains("flip")){
+                        currentRoom.flip(this);
+                    } 
+                    if (payload.getMessage().contains("roll")){
+                        currentRoom.roll(payload.getMessage().replace("/roll", ""), this);
+                    } 
                     break;
                 case ROOM_CREATE:
                     currentRoom.handleCreateRoom(this, payload.getMessage());
@@ -193,6 +199,7 @@ public class ServerThread extends BaseServerThread {
         fp.setPayloadType(PayloadType.FLIP);
         fp.setClientId(ClientId);
         fp.setMessage(message);
+        
         return send(fp);
     }
 

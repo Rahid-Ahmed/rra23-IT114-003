@@ -1442,3 +1442,387 @@
 [34m>[0m Client Created
 11/24/2024 16:32:22 [Project.Client.Client] ([32mINFO[0m):
 [34m>[0m Client Created
+11/25/2024 11:44:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:44:55 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:44:57 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:44:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:44:57 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:44:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:44:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:50:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:50:13 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:50:16 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:50:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:50:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:50:16 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:50:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:54:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:54:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:54:04 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:54:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:54:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:54:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:54:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:55:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:55:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:55:09 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 11:55:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:55:09 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:55:09 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:55:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:56:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:56:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:56:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:56:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:56:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:56:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:02:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:02:49 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:02:51 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:02:51 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:02:51 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:02:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:02:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:07:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:08:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:08:03 [Project.Client.Client] ([31mSEVERE[0m):
+[34m>[0m Could not process Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+	at Project.Client.Client.processClientData(Client.java:628)
+	at Project.Client.Client.processPayload(Client.java:549)
+	at Project.Client.Client.listenToServer(Client.java:387)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+
+11/25/2024 12:08:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:08:03 [Project.Client.Client] ([31mSEVERE[0m):
+[34m>[0m Could not process Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+	at Project.Client.Client.processRoomAction(Client.java:667)
+	at Project.Client.Client.processPayload(Client.java:562)
+	at Project.Client.Client.listenToServer(Client.java:387)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+
+11/25/2024 12:10:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:10:10 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:10:13 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:10:13 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:10:13 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:10:13 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:10:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:11:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [1] Message: [null] Client Name [A] Status [disconnect]
+11/25/2024 12:12:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:12:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:12:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:12:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:12:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:12:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:12:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:14:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:14:21 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:14:23 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:14:23 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:14:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:14:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:14:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:16:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:16:17 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:16:19 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:16:19 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:16:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:16:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:16:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:16:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [lsdlkjfal;ksdfjasdk.fjaklsdjgl;askdjflas;dkjfr]
+11/25/2024 12:20:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:20:36 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:20:39 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:20:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:20:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:20:40 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:20:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:20:40 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:20:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:20:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:28:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:28:58 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:29:00 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:29:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:29:00 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:29:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:29:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hielllo]
+11/25/2024 12:29:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:30:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:30:53 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:30:55 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:30:55 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:30:55 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:30:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:30:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:30:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [A<font color = 'red'> flipped a coin and got tails </font>]
+11/25/2024 12:32:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:32:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:32:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:32:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:32:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:32:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:32:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:32:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:33:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:33:46 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:33:48 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:33:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:33:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:33:49 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:33:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:33:49 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:33:49 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:33:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:33:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 31 </font>]
+11/25/2024 12:34:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:34:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got tails </font>]
+11/25/2024 12:35:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [1] Message: [null] Client Name [a] Status [disconnect]
+11/25/2024 12:35:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:35:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:35:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:35:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:35:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:35:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:35:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:35:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got heads </font>]
+11/25/2024 12:35:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:35:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:35:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:35:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 31 </font>]
+11/25/2024 12:37:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:37:36 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:37:37 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:37:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:37:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:37:37 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:37:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:37:38 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:37:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:37:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:37:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:37:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 1d5]
+11/25/2024 12:37:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:37:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:37:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 73 </font>]
+11/25/2024 12:37:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:37:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got heads </font>]

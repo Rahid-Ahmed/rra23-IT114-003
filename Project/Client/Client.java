@@ -58,6 +58,8 @@ public enum Client {
     private final String LOGOFF = "logoff";
     private final String LOGOUT = "logout";
     private final String SINGLE_SPACE = " ";
+    private final String FLIP = "flip";
+    private final String ROLL = "roll";
 
     private static IClientEvents events;
 
@@ -231,6 +233,14 @@ public enum Client {
                         sendListRooms(commandValue);
                         wasCommand = true;
                         break;
+                    case FLIP:
+                        sendFlip();
+                        wasCommand = true;
+                        break;
+                    case ROLL:
+                        sendRoll(commandValue);
+                        wasCommand = true;
+                        break;
                     // Note: these are to disconnect, they're not for changing rooms
                     case DISCONNECT:
                     case LOGOFF:
@@ -253,7 +263,7 @@ public enum Client {
             Payload rp = new Payload();
             rp.setPayloadType(PayloadType.ROLL);
             rp.setMessage(rollString);
-            out.writeObject(rp);
+            send(rp);
             } catch(Exception e){
                 e.printStackTrace();
             }
@@ -264,7 +274,7 @@ public enum Client {
             try{
             Payload fp = new Payload();
             fp.setPayloadType(PayloadType.FLIP);
-            out.writeObject(fp);
+            send(fp);
             } catch(Exception e){
                 e.printStackTrace();
             }
@@ -480,12 +490,14 @@ public enum Client {
         }
     }
 
+    
     /**
      * Handles received message from the ServerThread
      * 
      * @param payload
      */
-    private void processPayload(Payload payload) {
+    @Deprecated
+    /*private void processPayload(Payload payload) {
         try {
             System.out.println("Received Payload: " + payload);
             switch (payload.getPayloadType()) {
@@ -514,10 +526,12 @@ public enum Client {
                     processMessage(payload.getClientId(), payload.getMessage()); //rra23 10-17-24
                     break;
                 case PayloadType.ROLL: //rra23 11/11/24
-                     processMessage(payload.getClientId(),payload.getMessage()); 
+                     processMessage(payload.getClientId(),payload.getMessage());
+                     ((IMessageEvents) events).onMessageReceive(payload.getClientId(), payload.getMessage());
                     break;
                 case PayloadType.FLIP: //rra24 11/11/24
                     processMessage(payload.getClientId(), payload.getMessage());
+                    ((IMessageEvents) events).onMessageReceive(payload.getClientId(), payload.getMessage());
                     break;
                 default:
                     break;
@@ -525,6 +539,54 @@ public enum Client {
         } catch (Exception e) {
             System.out.println("Could not process Payload: " + payload);
             e.printStackTrace();
+        }
+    }
+    */
+
+    /**
+     * Handles received message from the ServerThread
+     * 
+     * @param payload
+     */
+    private void processPayload(Payload payload) {
+        try {
+            LoggerUtil.INSTANCE.info("Received Payload: " + payload);
+            switch (payload.getPayloadType()) {
+                case PayloadType.CLIENT_ID: // get id assigned
+                    ConnectionPayload cp = (ConnectionPayload) payload;
+                    processClientData(cp.getClientId(), cp.getClientName());
+                    break;
+                case PayloadType.SYNC_CLIENT: // silent add
+                    cp = (ConnectionPayload) payload;
+                    processClientSync(cp.getClientId(), cp.getClientName());
+                    break;
+                case PayloadType.DISCONNECT: // remove a disconnected client (mostly for the specific message vs leaving
+                                             // a room)
+                    cp = (ConnectionPayload) payload;
+                    processDisconnect(cp.getClientId(), cp.getClientName());
+                    // note: we want this to cascade
+                case PayloadType.ROOM_JOIN: // add/remove client info from known clients
+                    cp = (ConnectionPayload) payload;
+                    processRoomAction(cp.getClientId(), cp.getClientName(), cp.getMessage(), cp.isConnect());
+                    break;
+                case PayloadType.ROOM_LIST:
+                    RoomResultsPayload rrp = (RoomResultsPayload) payload;
+                    processRoomsList(rrp.getRooms(), rrp.getMessage());
+                    break;
+                case PayloadType.MESSAGE: // displays a received message
+                    processMessage(payload.getClientId(), payload.getMessage());
+                    break;
+                case PayloadType.FLIP:
+                    processMessage(payload.getClientId(), payload.getMessage());
+                    break;
+                case PayloadType.ROLL:
+                    processMessage(payload.getClientId(), payload.getMessage());
+                    break;
+                default:
+                    break;
+            }
+        } catch (Exception e) {
+            LoggerUtil.INSTANCE.severe("Could not process Payload: " + payload, e);
         }
     }
 
