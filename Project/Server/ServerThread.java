@@ -10,6 +10,7 @@ import Project.Server.Room;
 import Project.Common.Payload;
 import Project.Common.ConnectionPayload;
 import Project.Common.PayloadType;
+import Project.Common.PrivateMessagePayload;
 
 /**
  * A server-side representation of a single client.
@@ -99,12 +100,15 @@ public class ServerThread extends BaseServerThread {
                     break;
                 case MESSAGE:
                     currentRoom.sendMessage(this, payload.getMessage());
-                    if (payload.getMessage().contains("flip")){
+                    if (payload.getMessage().contains("/flip")){
                         currentRoom.flip(this);
                     } 
-                    if (payload.getMessage().contains("roll")){
+                    if (payload.getMessage().contains("/roll")){
                         currentRoom.roll(payload.getMessage().replace("/roll", ""), this);
                     } 
+                    if (payload.getPayloadType().equals(PayloadType.PRIVATE_MESSAGE)){ //rra23 11/25/24
+                        currentRoom.privateMessage(this, payload.getMessage());
+                    }
                     break;
                 case ROOM_CREATE:
                     currentRoom.handleCreateRoom(this, payload.getMessage());
@@ -120,6 +124,13 @@ public class ServerThread extends BaseServerThread {
                     break;
                 case FLIP:
                     currentRoom.flip(this); //rra23 11/11/24
+                    break;
+                case MUTE:
+                    currentRoom.mute(this, payload.getMessage()); //rra23 11/25/24
+                    break;
+                case UNMUTE:
+                    currentRoom.unmute(this, payload.getMessage()); //rra23 11/25/24
+                    break;
                 default:
                     break;
             }
@@ -201,6 +212,33 @@ public class ServerThread extends BaseServerThread {
         fp.setMessage(message);
         
         return send(fp);
+    }
+
+    //rra23 11/25/24
+    public boolean sendPrivateMessage(String recipient, String message){
+            Payload pmp = new PrivateMessagePayload();
+            pmp.setPayloadType(PayloadType.PRIVATE_MESSAGE);
+            pmp.setMessage(message);
+            send(pmp);
+            return send(pmp);
+        }
+
+    //rra23 11/25/24
+    public boolean sendMute(long ClientId){
+        Payload mp = new Payload();
+        mp.setPayloadType(PayloadType.MUTE);
+        mp.setClientId(ClientId);
+        mp.setMessage("Mute successful");
+        return send(mp);
+    }
+
+    //rra23 11/25/24
+    public boolean sendUnmute(long ClientId){
+        Payload ump = new Payload();
+        ump.setPayloadType(PayloadType.MUTE);
+        ump.setClientId(ClientId);
+        ump.setMessage("Unmute successful");
+        return send(ump);
     }
 
     /**

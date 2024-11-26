@@ -20,6 +20,7 @@ import javax.swing.Box;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JEditorPane;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
@@ -200,8 +201,11 @@ public class ChatPanel extends JPanel { //rra23 11/11/24
      * @param text The text of the message.
      */
     public void addText(String text) {
+        text = messageProcessor(text); 
+        JEditorPane textContainer = new JEditorPane("text/html", "<html>" + text + "</html>");
+
         SwingUtilities.invokeLater(() -> {
-            JEditorPane textContainer = new JEditorPane("text/plain", text);
+            //JEditorPane textContainer = new JEditorPane("text/plain", text);
             textContainer.setEditable(false);
             textContainer.setBorder(BorderFactory.createEmptyBorder());
 
@@ -238,4 +242,22 @@ public class ChatPanel extends JPanel { //rra23 11/11/24
             });
         });
     }
+    
+    private String messageProcessor(String message) {
+        message = message.replaceAll("\\*(.*?)\\*", "<b>$1</b>");
+
+        message = message.replaceAll("\\-(.*?)\\-", "<i>$1</i>");
+
+        message = message.replaceAll("\\_(.*?)\\_", "<u>$1</u>");
+
+        message = message.replaceAll("\\#r(.*?)\\#", "<font color='red'>$1</font>");
+        message = message.replaceAll("\\#b(.*?)\\#", "<font color='blue'>$1</font>");
+        message = message.replaceAll("\\#g(.*?)\\#", "<font color='green'>$1</font>");
+
+        message = message.replaceAll("\\*\\-(.*?)\\-\\*", "<b><i><u>$1</u></i></b>");
+        message = message.replaceAll("\\-\\*(.*?)\\*\\-", "<i><u><font color='red'>$1</font></u></i>");
+
+        return message;
+    }
+
 }

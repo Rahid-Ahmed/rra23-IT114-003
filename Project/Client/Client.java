@@ -20,6 +20,7 @@ import Project.Common.ConnectionPayload;
 import Project.Common.LoggerUtil;
 import Project.Common.Payload;
 import Project.Common.PayloadType;
+import Project.Common.PrivateMessagePayload;
 import Project.Common.RoomResultsPayload;
 import Project.Common.TextFX;
 import Project.Common.TextFX.Color;
@@ -209,7 +210,35 @@ public enum Client {
                 e.printStackTrace();
             }
             return true;
-        } else { // logic previously from Room.java
+        }else if(text.startsWith("/mute")){ //rra23 11/24/24
+            try{
+                String mutedUser = text.replace("/mute", "").trim();
+                if (!String.join("\n", knownClients.values().stream() //code from the /users command
+                .map(c -> String.format("%s(%s)", c.getClientName(), c.getClientId())).toList()).contains(mutedUser)){
+                    sendMessage("User not found");
+                }
+                sendMute(this.getMyClientId());
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        } else if(text.startsWith("/unmute")){ //rra23 11/25/24
+            try{
+                String unmutedUser = text.replace("/unmute", "").trim();
+                sendUnmute(this.getMyClientId());
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }else if(text.startsWith("@")){ //rra23 11/25/25
+            try{
+                String [] parts = text.split(" ");
+                String recipient = parts[0].replace("@", "").trim();
+                String message = parts[1];
+                sendPrivateMessage(recipient, message);
+            } catch(Exception e){
+                e.printStackTrace();
+            }
+
+        }else { // logic previously from Room.java
             // decided to make this as separate block to separate the core client-side items
             // vs the ones that generally are used after connection and that send requests
             if (text.startsWith(COMMAND_CHARACTER)) {
@@ -276,6 +305,40 @@ public enum Client {
             fp.setPayloadType(PayloadType.FLIP);
             send(fp);
             } catch(Exception e){
+                e.printStackTrace();
+            }
+        }
+
+        //rra23 11/25/24
+        private void sendPrivateMessage(String recipient, String message){
+            try{
+                Payload pmp = new Payload();
+                pmp.setPayloadType(PayloadType.PRIVATE_MESSAGE);
+                pmp.setMessage(message);
+                send(pmp);
+            } catch (Exception e){
+                e.printStackTrace();
+            }
+        }
+
+        //rra23 11/25/24
+        private void sendMute(long ClientId){
+            try{
+                Payload muted = new Payload();
+                muted.setPayloadType(PayloadType.MUTE);
+                send(muted);
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }
+
+        //rra23 11/25/24
+        private void sendUnmute(long ClientId){
+            try{
+                Payload unmuted = new Payload();
+                unmuted.setPayloadType(PayloadType.UNMUTE);
+                send(unmuted);
+            }catch (Exception e){
                 e.printStackTrace();
             }
         }

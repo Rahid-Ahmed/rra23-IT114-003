@@ -10,5 +10,9 @@ public enum PayloadType {
     MESSAGE, // sender and message
     ROOM_LIST, //client:query for rooms, server: result of query
     ROLL, //rra23 11/10/24 added ROLL to PayloadType
-    FLIP //rra23 11/11/24 added FLIP to PayloadType
+    FLIP, //rra23 11/11/24 added FLIP to PayloadType
+    PRIVATE_MESSAGE, //rra23 11/25/25 added Private message
+    MUTE, //rra23 11/25/25 added mute
+    UNMUTE, //rra23 11/25/25 added unmute
+
 }

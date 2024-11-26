@@ -5,6 +5,10 @@ import java.text.StringCharacterIterator;
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
 
+import Project.Common.TextFX;
+import Project.Common.TextFX.Color;
+
+
 public class Room implements AutoCloseable{
     private String name;// unique name of the Room
     private volatile boolean isRunning = false;
@@ -190,7 +194,7 @@ public class Room implements AutoCloseable{
         }
 
 
-        //rra23 11/11/24
+        //rra23 11/25/24
         if(message.contains("**")){
             String formattedMessage = message.replace("**", "<b>");
             sendMessage(sender, formattedMessage);
@@ -261,7 +265,7 @@ public class Room implements AutoCloseable{
         disconnect(sender);
     }
 
-    //rra23 11/11/24
+    //rra23 11/25/24
     protected static void roll(String roll, ServerThread client){
         String parts[] = roll.trim().split("\\s+");
 
@@ -271,8 +275,8 @@ public class Room implements AutoCloseable{
                 int numberOfDie = Integer.parseInt(diceSettings[0]);
                 int max = Integer.parseInt(diceSettings[1]);
 
-                StringBuilder result = new StringBuilder(); //rra23 11/24/24
-                result.append(String.format(" <font color = 'red'> %s rolled %dd%d: </font>", client.getName(), numberOfDie, max));
+                StringBuilder result = new StringBuilder(); 
+                result.append(String.format("%s rolled %dd%d:", client.getName(), numberOfDie, max));
 
                 int total = 0;
 
@@ -293,7 +297,7 @@ public class Room implements AutoCloseable{
             try{
                 int max = Integer.parseInt(parts[0]);
                 int diceResult = (int) (Math.random() * max + 1);
-                String message = String.format(" <font color = 'red'> %s rolled: %d </font>", client.getClientName(), diceResult); //rra23 11/24/24
+                String message = String.format("%s rolled: %d", client.getClientName(), diceResult); //rra23 11/24/24
                 client.sendRoll(client.getClientId(), message);
             } catch (Exception e){
                 client.sendRoll(client.getClientId(), "An error occured, please try again.");
@@ -303,20 +307,35 @@ public class Room implements AutoCloseable{
         }
     }
 
-    //rra23 11/24/24
+    //rra23 11/25/24
     protected static void flip(ServerThread client){
         Random rand = new Random();
         int number = rand.nextInt(2);
         if (number == 0){
-            String case1 = client.getClientName() + "<font color = 'red'> flipped a coin and got heads </font>";
+            String case1 = client.getClientName() + " flipped a coin and got heads";
             client.sendFlip(client.getClientId(), case1);
         }
         else {
-            String case2 = client.getClientName() + "<font color = 'red'> flipped a coin and got tails </font>";
+            String case2 = client.getClientName() + " flipped a coin and got tails";
             client.sendFlip(client.getClientId(), case2);
         }
     }
 
+    //rra23 11/25/24
+    protected static void privateMessage(ServerThread client, String message){
+        client.sendMessage(message);
+    }
+
+    //rra23 11/25/24
+    protected static void mute(ServerThread client, String muted){
+
+    }
+
+    //rra23 11/25/24
+    protected static void unmute(ServerThread client, String muted){
+
+    }
+    
     // end receive data from ServerThread
 }
 
