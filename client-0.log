@@ -1,0 +1,2426 @@
+11/24/2024 13:55:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 13:56:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 13:56:17 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 13:56:20 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: rahid
+11/24/2024 13:56:20 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 13:56:23 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: rahid
+11/24/2024 13:56:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 13:59:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 13:59:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 13:59:22 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 13:59:25 [Project.Client.ClientUI$2] ([31mSEVERE[0m):
+[34m>[0m Error during disconnect: Cannot invoke "java.io.ObjectOutputStream.writeObject(Object)" because "this.out" is null
+11/24/2024 14:02:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:02:26 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:02:28 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 14:02:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 14:02:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:34 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 14:02:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:35 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 14:02:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:40 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: B
+11/24/2024 14:02:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:41 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: B
+11/24/2024 14:02:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:46 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 14:02:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:02:54 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 14:10:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:10:38 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:10:42 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 14:10:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:25:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:25:52 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:27:51 [Project.Client.ClientUI$2] ([31mSEVERE[0m):
+[34m>[0m Error during disconnect: Cannot invoke "java.io.ObjectOutputStream.writeObject(Object)" because "this.out" is null
+11/24/2024 14:43:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:43:21 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:43:25 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 14:43:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:43:37 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid1
+11/24/2024 14:43:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 14:47:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:47:53 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:47:55 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 14:47:56 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:48:06 [Project.Client.ClientUI$2] ([31mSEVERE[0m):
+[34m>[0m Error during disconnect: Cannot invoke "java.io.ObjectOutputStream.writeObject(Object)" because "this.out" is null
+11/24/2024 14:55:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 14:55:18 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 14:55:21 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 14:55:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:05:56 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:07:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:07:19 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:07:23 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:07:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:09:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:03 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:09:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:11:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:13:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:13:59 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:14:02 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:14:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:14:12 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid1
+11/24/2024 15:14:12 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:18:50 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:18:50 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:18:53 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:18:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:18:57 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:18:58 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:18:59 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:19:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:19:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:27:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:27:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:27:19 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:27:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:28:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:28:45 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:28:48 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:28:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:35:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:35:26 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:35:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:35:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:35:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:35:34 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:35:35 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:35:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:35:35 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:36:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:36:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:36:11 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:36:11 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:36:11 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:36:11 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:36:18 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:36:20 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:36:20 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:36:20 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:39:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:39:31 [Project.Client.ClientUI$2] ([31mSEVERE[0m):
+[34m>[0m Error during disconnect: Cannot invoke "java.io.ObjectOutputStream.writeObject(Object)" because "this.out" is null
+11/24/2024 15:40:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:40:14 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:40:17 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:40:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:40:26 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CONNECT
+11/24/2024 15:40:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:52:01 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:52:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:52:04 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:52:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:52:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:59:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 15:59:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 15:59:31 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/24/2024 15:59:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 15:59:32 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 15:59:32 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 15:59:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: Rahid (1)
+11/24/2024 16:00:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: B (2)
+11/24/2024 16:00:24 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:24 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: C (3)
+11/24/2024 16:00:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+11/24/2024 16:00:59 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:00:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+11/24/2024 16:13:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:13:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:13:28 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:13:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:13:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:13:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:13:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:16:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:16:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:16:05 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:16:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:16:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:16:05 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:16:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:28:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:28:47 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/24/2024 16:28:49 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/24/2024 16:28:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/24/2024 16:28:50 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/24/2024 16:28:50 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/24/2024 16:28:50 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/24/2024 16:31:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/24/2024 16:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:44:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:44:55 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:44:57 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:44:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:44:57 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:44:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:44:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:50:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:50:13 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:50:16 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:50:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:50:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:50:16 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:50:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:54:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:54:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:54:04 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:54:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:54:04 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:54:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:54:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 11:55:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:55:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:55:09 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 11:55:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:55:09 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:55:09 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:55:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 11:56:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 11:56:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 11:56:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 11:56:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 11:56:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 11:56:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:02:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:02:49 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:02:51 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:02:51 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:02:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:02:51 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:02:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:02:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:07:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:08:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:08:03 [Project.Client.Client] ([31mSEVERE[0m):
+[34m>[0m Could not process Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+	at Project.Client.Client.processClientData(Client.java:628)
+	at Project.Client.Client.processPayload(Client.java:549)
+	at Project.Client.Client.listenToServer(Client.java:387)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+
+11/25/2024 12:08:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:08:03 [Project.Client.Client] ([31mSEVERE[0m):
+[34m>[0m Could not process Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+	at Project.Client.Client.processRoomAction(Client.java:667)
+	at Project.Client.Client.processPayload(Client.java:562)
+	at Project.Client.Client.listenToServer(Client.java:387)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+
+11/25/2024 12:10:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:10:10 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:10:13 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:10:13 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:10:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:10:13 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:10:13 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:10:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:11:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [1] Message: [null] Client Name [A] Status [disconnect]
+11/25/2024 12:12:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:12:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:12:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:12:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:12:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:12:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:12:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:12:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:14:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:14:21 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:14:23 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:14:23 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:14:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:14:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:14:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:14:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:16:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:16:17 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:16:19 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:16:19 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:16:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:16:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:16:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:16:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:16:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [lsdlkjfal;ksdfjasdk.fjaklsdjgl;askdjflas;dkjfr]
+11/25/2024 12:20:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:20:36 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:20:39 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:20:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:20:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:20:40 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:20:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:20:40 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:20:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:20:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:28:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:28:58 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:29:00 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:29:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:29:00 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:29:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:29:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hielllo]
+11/25/2024 12:29:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:30:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:30:53 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:30:55 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:30:55 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:30:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:30:55 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:30:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:30:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:30:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [A<font color = 'red'> flipped a coin and got tails </font>]
+11/25/2024 12:32:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:32:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:32:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 12:32:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:32:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 12:32:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:32:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 12:32:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:32:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:33:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:33:46 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:33:48 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:33:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:33:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:33:49 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:33:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:33:49 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:33:49 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:33:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:33:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 31 </font>]
+11/25/2024 12:34:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:34:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got tails </font>]
+11/25/2024 12:35:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [1] Message: [null] Client Name [a] Status [disconnect]
+11/25/2024 12:35:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:35:27 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:35:29 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:35:29 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:35:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:35:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:35:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:35:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:35:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got heads </font>]
+11/25/2024 12:35:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:35:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:35:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:35:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 31 </font>]
+11/25/2024 12:37:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:37:36 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:37:37 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:37:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:37:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:37:37 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:37:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:37:38 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:37:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:37:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll]
+11/25/2024 12:37:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:37:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 1d5]
+11/25/2024 12:37:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 12:37:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+11/25/2024 12:37:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ <font color = 'red'> a rolled: 73 </font>]
+11/25/2024 12:37:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:37:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got heads </font>]
+11/25/2024 12:40:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 12:40:00 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 12:40:02 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 12:40:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 12:40:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 12:40:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 12:40:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 12:40:02 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 12:40:02 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 12:40:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 12:40:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<font color = 'red'> flipped a coin and got heads </font>]
+11/25/2024 13:07:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 13:07:45 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 13:07:47 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 13:07:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 13:07:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 13:07:47 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 13:07:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 13:07:47 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 13:07:47 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 13:07:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 13:07:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [[0;35maflipped a coin and got heads[0m]
+11/25/2024 16:58:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 16:58:38 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 16:58:40 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 16:58:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 16:58:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 16:58:40 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 16:58:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 16:58:40 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 16:58:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 16:58:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 5]
+11/25/2024 16:58:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [a rolled: 3]
+11/25/2024 16:59:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 16:59:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 16:59:17 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 16:59:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 16:59:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 16:59:18 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 16:59:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 16:59:18 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 16:59:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 16:59:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<red> red <red>]
+11/25/2024 16:59:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#r red #r]
+11/25/2024 17:02:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:02:24 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:02:26 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:02:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:02:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:02:26 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:02:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:02:26 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:02:26 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:02:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+11/25/2024 17:02:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 17:02:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [aflipped a coin and got tails]
+11/25/2024 17:05:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:05:48 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:05:51 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/25/2024 17:05:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:05:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [Rahid] Status [connect]
+11/25/2024 17:05:51 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:05:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [Rahid] Status [connect]
+11/25/2024 17:05:51 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:05:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: Rahid (1)
+11/25/2024 17:05:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 17:05:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [Rahidflipped a coin and got tails]
+11/25/2024 17:06:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 6]
+11/25/2024 17:06:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [Rahid rolled: 6]
+11/25/2024 17:06:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 2d5]
+11/25/2024 17:06:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [An error occured, please try again.]
+11/25/2024 17:10:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:10:34 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:10:35 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:10:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:10:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:10:35 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:10:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:10:35 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:10:36 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:10:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 17:10:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue>  flipped a coin and got tails </blue> </html>]
+11/25/2024 17:11:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:11:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:11:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: v
+11/25/2024 17:11:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:11:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [2] Message: [null] Client Name [v] Status [connect]
+11/25/2024 17:11:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:11:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [v] Status [connect]
+11/25/2024 17:11:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:11:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: v (2)
+11/25/2024 17:11:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/flip]
+11/25/2024 17:11:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [2] Message: [v<html> <blue> flipped a coin and got heads </blue> </html>]
+11/25/2024 17:18:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:18:41 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:18:42 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:18:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:18:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:18:42 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:18:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:18:42 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:18:42 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:18:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 17:18:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue> flipped a coin and got heads </blue> </html>]
+11/25/2024 17:19:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:19:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:19:30 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:19:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:19:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:19:30 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:19:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:19:30 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:19:30 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:19:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+11/25/2024 17:22:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:22:41 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:22:44 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:22:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:22:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:22:44 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:22:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:22:44 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:22:44 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:22:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+11/25/2024 17:22:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue>  flipped a coin and got tails </blue> </html>]
+11/25/2024 17:22:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+11/25/2024 17:23:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<font color="blue"> hi </font>]
+11/25/2024 17:24:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:24:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:24:30 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:24:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:24:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:24:30 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:24:30 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:24:30 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:24:30 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:24:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<font color ="blue"> /flip </font>]
+11/25/2024 17:24:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue> flipped a coin and got heads </blue> </html>]
+11/25/2024 17:26:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:26:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:26:09 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: Rahid
+11/25/2024 17:26:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:26:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [Rahid] Status [connect]
+11/25/2024 17:26:09 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:26:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [Rahid] Status [connect]
+11/25/2024 17:26:09 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:26:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: Rahid (1)
+11/25/2024 17:26:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<font color = "blue"> /flip </font>]
+11/25/2024 17:26:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [Rahid<html> <blue>  flipped a coin and got tails </blue> </html>]
+11/25/2024 17:27:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:27:43 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:27:45 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 17:27:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:27:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 17:27:45 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:27:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 17:27:45 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:27:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 17:27:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+11/25/2024 17:27:54 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:27:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+11/25/2024 17:28:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+11/25/2024 17:28:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:28:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+11/25/2024 17:28:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<font color = "blue"> /flip </font>]
+11/25/2024 17:28:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [A<html> <blue> flipped a coin and got heads </blue> </html>]
+11/25/2024 17:28:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [<font color = "red"> /roll 100]
+11/25/2024 17:28:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/roll 6]
+11/25/2024 17:28:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [2] Message: [null] Client Name [b] Status [disconnect]
+11/25/2024 17:28:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:28:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+11/25/2024 17:29:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:29:10 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:29:12 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 17:29:12 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:29:12 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [4] Message: [null] Client Name [A] Status [connect]
+11/25/2024 17:29:12 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:29:12 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [4] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 17:29:12 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:29:12 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (4)
+11/25/2024 17:29:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [5] Message: [lobby] Client Name [B] Status [connect]
+11/25/2024 17:29:25 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:29:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: B (5)
+11/25/2024 17:29:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [6] Message: [lobby] Client Name [C] Status [connect]
+11/25/2024 17:29:34 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:29:34 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: C (6)
+11/25/2024 17:29:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [4] Message: [<font color = "blue> /flip </font>]
+11/25/2024 17:29:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [4] Message: [A<html> <blue>  flipped a coin and got tails </blue> </html>]
+11/25/2024 17:30:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 17:30:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 17:30:18 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 17:30:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 17:30:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 17:30:18 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 17:30:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 17:30:18 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:30:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 17:30:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [C] Status [connect]
+11/25/2024 17:30:34 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:30:34 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: C (2)
+11/25/2024 17:30:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [B] Status [connect]
+11/25/2024 17:30:38 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 17:30:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: B (3)
+11/25/2024 17:30:53 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<font color = "blue"> /flip </font>]
+11/25/2024 17:30:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue> flipped a coin and got heads </blue> </html>]
+11/25/2024 17:31:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [<font color = "red"> /roll 6</font>]
+11/25/2024 17:31:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [/roll 6]
+11/25/2024 17:31:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [<font color = "red"> /roll 6 </font>]
+11/25/2024 17:31:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [clear]
+11/25/2024 17:32:11 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [testing]
+11/25/2024 17:32:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [testing]
+11/25/2024 17:32:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [testing]
+11/25/2024 17:32:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [tines]
+11/25/2024 17:32:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:32:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.<font color = "red"> /flip </font>]
+11/25/2024 17:32:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a<html> <blue>  flipped a coin and got tails </blue> </html>]
+11/25/2024 17:32:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [<font color = "red"> /flip </font>]
+11/25/2024 17:32:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [<font color = "red"> /flip </font>]
+11/25/2024 17:36:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<b> Hello </b>]
+11/25/2024 17:36:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [<i> Hi how are you </i>]
+11/25/2024 17:36:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [<u> <b> <i> I am good </u> </b> </i>]
+11/25/2024 17:36:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:36:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:37:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.]
+11/25/2024 17:37:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [.<b> Hi this is bold </b>]
+11/25/2024 17:37:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [<i> Hello this is italic</i>]
+11/25/2024 17:37:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [<b><i><u>This is bold and italic and underlined </b></i></u>]
+11/25/2024 18:21:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 18:21:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 18:21:07 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: A
+11/25/2024 18:21:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 18:21:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [A] Status [connect]
+11/25/2024 18:21:07 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 18:21:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [A] Status [connect]
+11/25/2024 18:21:07 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:21:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: A (1)
+11/25/2024 18:21:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+11/25/2024 18:21:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+11/25/2024 18:21:24 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:21:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+11/25/2024 18:21:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [@b hi]
+11/25/2024 18:21:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+11/25/2024 18:21:55 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:21:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+11/25/2024 18:22:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [@a hello]
+11/25/2024 18:24:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 18:24:14 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 18:24:15 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 18:24:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 18:24:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 18:24:16 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 18:24:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 18:24:16 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:24:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 18:24:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+11/25/2024 18:24:24 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:24:24 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+11/25/2024 18:24:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+11/25/2024 18:24:34 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 18:24:34 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+11/25/2024 18:24:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [@c hi]
+11/25/2024 19:03:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+11/25/2024 19:03:32 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+11/25/2024 19:03:34 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+11/25/2024 19:03:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+11/25/2024 19:03:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+11/25/2024 19:03:34 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+11/25/2024 19:03:34 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+11/25/2024 19:03:34 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 19:03:35 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+11/25/2024 19:03:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+11/25/2024 19:03:47 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 19:03:47 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+11/25/2024 19:03:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+11/25/2024 19:03:59 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+11/25/2024 19:03:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+11/25/2024 19:04:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+11/25/2024 19:04:11 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/mute b]
+11/25/2024 19:04:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [hello]
