@@ -201,7 +201,7 @@ public class ClientUI extends JFrame implements IConnectionEvents, IMessageEvent
         }
     }
 
-    public void onMuteReceive(long clientId){
+    public void onMuteReceive(long clientId, String clientName){
         chatPanel.highlightMutedUser(clientId, clientName); //rra23 12/10/24
     }
 

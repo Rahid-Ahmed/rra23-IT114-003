@@ -4436,3 +4436,1085 @@
 [34m>[0m Removing user list item for id -1
 12/10/2024 19:27:06 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
 [34m>[0m Adding user to list: ***Room***
+12/11/2024 11:56:01 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 11:56:01 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 11:56:05 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: rahid
+12/11/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [2] Message: [null] Client Name [rahid] Status [connect]
+12/11/2024 11:56:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [rahid] Status [connect]
+12/11/2024 11:56:05 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 11:56:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[SYNC_CLIENT] Client Id [1] Message: [null] Client Name [Matt] Status [connect]
+12/11/2024 11:56:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: rahid (2)
+12/11/2024 11:56:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: Matt (1)
+12/11/2024 11:56:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [jimmy] Status [connect]
+12/11/2024 11:56:06 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 11:56:06 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: jimmy (3)
+12/11/2024 11:56:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [hi]
+12/11/2024 11:56:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 11:56:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***rahid***
+12/11/2024 11:56:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [🙋‍♂️🙋‍♂️]
+12/11/2024 11:56:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+12/11/2024 11:56:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***jimmy***
+12/11/2024 11:57:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [:c]
+12/11/2024 11:57:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+12/11/2024 11:57:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***jimmy***
+12/11/2024 11:57:59 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [🔥🔥]
+12/11/2024 11:57:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+12/11/2024 11:57:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***jimmy***
+12/11/2024 12:10:01 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [3] Message: [bye]
+12/11/2024 12:10:02 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+12/11/2024 12:10:02 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***jimmy***
+12/11/2024 12:10:04 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [3] Message: [null] Client Name [jimmy] Status [disconnect]
+12/11/2024 12:10:04 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:10:04 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 3
+12/11/2024 12:15:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 12:15:47 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 12:15:48 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 12:15:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 12:15:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 12:15:48 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 12:15:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 12:15:48 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:15:48 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:16:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 12:16:00 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:16:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 12:16:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+12/11/2024 12:16:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a#r flipped a coin and got heads #]
+12/11/2024 12:16:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:11 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 6]
+12/11/2024 12:16:12 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:12 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:12 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ #ga rolled: 3 #]
+12/11/2024 12:16:12 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:12 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+12/11/2024 12:16:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:20 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/mute b]
+12/11/2024 12:16:20 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [a muted you]
+12/11/2024 12:16:20 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:20 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:20 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 12:16:20 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 12:16:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/unmute b]
+12/11/2024 12:16:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [a unmuted you]
+12/11/2024 12:16:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:16:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:16:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 12:16:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 12:16:56 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/roll 2d6]
+12/11/2024 12:16:56 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 12:16:56 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 12:17:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/roll 600]
+12/11/2024 12:17:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 12:17:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 12:17:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<red> this should be red #]
+12/11/2024 12:17:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#r this should be red #]
+12/11/2024 12:17:15 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:17:15 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:17:15 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:17:15 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:18:27 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [highlight message]
+12/11/2024 12:18:27 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 12:18:27 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 12:18:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [!bold!]
+12/11/2024 12:18:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:18:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [*bold*]
+12/11/2024 12:19:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<i>italic<i>]
+12/11/2024 12:19:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [-italic-]
+12/11/2024 12:19:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<u>underline<u>]
+12/11/2024 12:19:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [_underline_]
+12/11/2024 12:19:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:19:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hu]
+12/11/2024 12:19:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:19:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:33:15 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 12:33:15 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 12:33:17 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 12:33:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 12:33:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 12:33:17 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 12:33:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 12:33:17 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:33:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:33:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [*<red> this should be red and bold#*]
+12/11/2024 12:33:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [*#r this should be red and bold#*]
+12/11/2024 12:33:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:33:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:33:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:33:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:37:17 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 12:37:17 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 12:37:18 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 12:37:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 12:37:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 12:37:19 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 12:37:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 12:37:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:37:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:37:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 12:37:33 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:37:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 12:37:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom test]
+12/11/2024 12:37:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:37:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:38:01 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom a]
+12/11/2024 12:38:01 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:38:01 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:42:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 12:42:54 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 12:42:56 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 12:42:56 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 12:42:56 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 12:42:56 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 12:42:56 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 12:42:56 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:42:56 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:43:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 12:43:05 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:43:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 12:43:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom test]
+12/11/2024 12:43:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 12:43:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:43:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [/createroom test] Client Name [a] Status [connect]
+12/11/2024 12:43:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:43:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:43:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:43:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:43:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 12:43:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:44:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom lobby]
+12/11/2024 12:44:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room /joinroom lobby doesn't exist]
+12/11/2024 12:44:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:44:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:44:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 12:44:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 12:44:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+12/11/2024 12:44:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a#b flipped a coin and got tails #]
+12/11/2024 12:44:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:44:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:44:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:44:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:48:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 12:48:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 12:48:08 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 12:48:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 12:48:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 12:48:08 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 12:48:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 12:48:08 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:48:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 12:48:16 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 12:48:16 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:48:16 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 12:48:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom test]
+12/11/2024 12:48:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 12:48:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:48:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [/createroom test] Client Name [a] Status [connect]
+12/11/2024 12:48:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 12:48:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:48:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 12:48:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 12:48:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 12:48:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:38:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 16:38:44 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 16:38:46 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 16:38:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 16:38:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 16:38:46 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 16:38:46 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 16:38:46 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:38:46 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:38:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 16:38:58 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:38:58 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:39:03 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+12/11/2024 16:39:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:39:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:39:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [hello]
+12/11/2024 16:39:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 16:39:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 16:39:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom a]
+12/11/2024 16:39:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 16:39:10 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:39:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [/createroom a] Client Name [a] Status [connect]
+12/11/2024 16:39:10 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:39:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:39:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:39:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:39:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 16:39:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:39:13 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+12/11/2024 16:39:13 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:39:13 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:39:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom Lobby]
+12/11/2024 16:39:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room /joinroom Lobby doesn't exist]
+12/11/2024 16:39:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:39:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:39:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 16:39:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 16:41:06 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 16:41:06 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 16:41:08 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 16:41:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 16:41:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 16:41:08 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 16:41:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 16:41:08 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:41:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:41:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 16:41:28 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:41:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:41:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom a]
+12/11/2024 16:41:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room  a doesn't exist]
+12/11/2024 16:41:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:41:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:41:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 16:41:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 16:41:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom a]
+12/11/2024 16:41:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 16:41:41 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:41:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:41:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:41:41 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [/createroom a] Client Name [a] Status [connect]
+12/11/2024 16:41:41 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:41:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:41:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 16:41:41 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:46:36 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 16:46:36 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 16:46:37 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 16:46:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 16:46:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 16:46:37 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 16:46:37 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 16:46:37 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:46:37 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:46:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 16:46:47 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:46:47 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:46:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom a]
+12/11/2024 16:46:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 16:46:52 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:46:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [ a] Client Name [a] Status [connect]
+12/11/2024 16:46:52 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:46:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:46:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:46:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:46:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 16:46:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:46:57 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [ a] Client Name [b] Status [connect]
+12/11/2024 16:46:57 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:46:57 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:47:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/joinroom Lobby]
+12/11/2024 16:47:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 16:47:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 16:47:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom Lobby]
+12/11/2024 16:47:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room  Lobby doesn't exist]
+12/11/2024 16:47:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:47:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:47:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 16:47:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 16:47:44 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 16:47:44 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 16:47:45 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 16:47:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 16:47:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 16:47:45 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 16:47:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 16:47:45 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:47:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:47:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 16:47:54 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:47:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:48:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+12/11/2024 16:48:08 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:48:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+12/11/2024 16:48:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom test]
+12/11/2024 16:48:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 16:48:14 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:48:14 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [ test] Client Name [a] Status [connect]
+12/11/2024 16:48:14 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:48:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:48:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:48:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:48:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 16:48:14 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:48:18 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [ test] Client Name [b] Status [connect]
+12/11/2024 16:48:18 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:48:18 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:48:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [hi]
+12/11/2024 16:48:21 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 16:48:21 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 16:48:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [we are in a private room]
+12/11/2024 16:48:26 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:48:26 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:48:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom Lobby]
+12/11/2024 16:48:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room  Lobby doesn't exist]
+12/11/2024 16:48:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:48:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:48:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 16:48:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 16:48:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/joinroom lobby]
+12/11/2024 16:48:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [-1] Message: [Room  lobby doesn't exist]
+12/11/2024 16:48:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:48:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:48:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id -1
+12/11/2024 16:48:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***Room***
+12/11/2024 16:48:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/joinroom]
+12/11/2024 16:48:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 16:48:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 16:49:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [2] Message: [/joinroom lobby]
+12/11/2024 16:49:02 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 16:49:03 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***b***
+12/11/2024 16:49:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom tester]
+12/11/2024 16:49:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [ test] Client Name [a] Status [disconnect]
+12/11/2024 16:49:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:49:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:49:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:49:23 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [ tester] Client Name [a] Status [connect]
+12/11/2024 16:49:23 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:49:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:49:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 16:49:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:49:33 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [ tester] Client Name [b] Status [connect]
+12/11/2024 16:49:33 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:49:33 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 16:50:26 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 16:50:26 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 16:50:28 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 16:50:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 16:50:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 16:50:28 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 16:50:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 16:50:28 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 16:50:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 16:50:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [is this working]
+12/11/2024 16:50:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:50:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 16:50:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [i hope this is working]
+12/11/2024 16:50:35 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 16:50:35 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:21:02 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 17:21:02 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 17:21:04 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: a
+12/11/2024 17:21:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 17:21:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [1] Message: [null] Client Name [a] Status [connect]
+12/11/2024 17:21:05 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 17:21:05 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [connect]
+12/11/2024 17:21:05 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:21:05 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 17:21:21 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [2] Message: [lobby] Client Name [b] Status [connect]
+12/11/2024 17:21:21 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:21:21 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: b (2)
+12/11/2024 17:21:47 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [3] Message: [lobby] Client Name [c] Status [connect]
+12/11/2024 17:21:47 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:21:47 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: c (3)
+12/11/2024 17:22:08 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [2] Message: [null] Client Name [b] Status [disconnect]
+12/11/2024 17:22:08 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:22:08 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 2
+12/11/2024 17:22:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [4] Message: [lobby] Client Name [d] Status [connect]
+12/11/2024 17:22:19 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:22:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: d (4)
+12/11/2024 17:22:25 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [4] Message: [null] Client Name [d] Status [disconnect]
+12/11/2024 17:22:25 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:22:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 4
+12/11/2024 17:22:54 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [5] Message: [lobby] Client Name [e] Status [connect]
+12/11/2024 17:22:54 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:22:54 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: e (5)
+12/11/2024 17:23:07 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hi]
+12/11/2024 17:23:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:23:07 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:23:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/createroom test]
+12/11/2024 17:23:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [lobby] Client Name [a] Status [disconnect]
+12/11/2024 17:23:22 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:23:22 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [1] Message: [ test] Client Name [a] Status [connect]
+12/11/2024 17:23:22 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:23:22 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:23:22 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:23:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:23:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Clearing user list
+12/11/2024 17:23:23 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: a (1)
+12/11/2024 17:23:29 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [5] Message: [ test] Client Name [e] Status [connect]
+12/11/2024 17:23:29 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:23:29 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: e (5)
+12/11/2024 17:23:32 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [hi]
+12/11/2024 17:23:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:23:32 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:23:35 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [hello]
+12/11/2024 17:23:35 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:23:35 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:23:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [this is a private room]
+12/11/2024 17:23:48 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:23:48 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 5]
+12/11/2024 17:26:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ #ga rolled: 5 #]
+12/11/2024 17:26:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+12/11/2024 17:26:24 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ #ga rolled: 24 #]
+12/11/2024 17:26:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:25 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:31 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/flip]
+12/11/2024 17:26:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:26:31 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:26:42 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/flip]
+12/11/2024 17:26:42 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:26:42 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:26:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/flip]
+12/11/2024 17:26:43 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:26:43 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:26:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+12/11/2024 17:26:51 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a#r flipped a coin and got heads #]
+12/11/2024 17:26:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:51 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/flip]
+12/11/2024 17:26:52 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[FLIP] Client Id [1] Message: [a#b flipped a coin and got tails #]
+12/11/2024 17:26:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:52 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [/roll 100]
+12/11/2024 17:26:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROLL] Client Id [1] Message: [ #ga rolled: 29 #]
+12/11/2024 17:26:58 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:58 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:26:58 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:26:58 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:27:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<red> this text should be red#]
+12/11/2024 17:27:55 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#r this text should be red#]
+12/11/2024 17:27:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:27:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:27:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:27:55 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<green> this text should be green#]
+12/11/2024 17:28:09 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#g this text should be green#]
+12/11/2024 17:28:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:09 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<blue> this text should be blue]
+12/11/2024 17:28:19 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#b this text should be blue]
+12/11/2024 17:28:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:19 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [<blue> this text should be blue #]
+12/11/2024 17:28:28 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [#b this text should be blue #]
+12/11/2024 17:28:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:28:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:28:28 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:29:00 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [1] Message: [*this text should be bold*]
+12/11/2024 17:29:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 1
+12/11/2024 17:29:00 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***a***
+12/11/2024 17:29:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [<i>this text should be italic<i>]
+12/11/2024 17:29:10 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [-this text should be italic-]
+12/11/2024 17:29:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:10 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [<red><u> this text is underlined and red <u>#]
+12/11/2024 17:29:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [#r<u> this text is underlined and red <u>#]
+12/11/2024 17:29:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [<red><u> this text is underlined and red <u>#]
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [<red>_ this text is underlined and red _#]
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:39 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [#r_ this text is underlined and red _#]
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:29:39 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:35:38 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/flip]
+12/11/2024 17:35:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:35:38 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:35:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/flip]
+12/11/2024 17:35:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:35:40 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:35:45 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [5] Message: [/roll 1000]
+12/11/2024 17:35:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:35:45 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***e***
+12/11/2024 17:35:58 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[DISCONNECT] Client Id [5] Message: [null] Client Name [e] Status [disconnect]
+12/11/2024 17:35:58 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:35:59 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 5
+12/11/2024 17:36:40 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client Created
+12/11/2024 17:36:40 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: USER_INFO
+12/11/2024 17:36:43 [Project.Client.Views.UserDetailsPanel] ([32mINFO[0m):
+[34m>[0m Chosen username: rahid
+12/11/2024 17:36:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Client connected
+12/11/2024 17:36:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[CLIENT_ID] Client Id [6] Message: [null] Client Name [rahid] Status [connect]
+12/11/2024 17:36:43 [Project.Client.ClientUI] ([34mFINE[0m):
+[34m>[0m Current panel: CHAT
+12/11/2024 17:36:43 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[ROOM_JOIN] Client Id [6] Message: [lobby] Client Name [rahid] Status [connect]
+12/11/2024 17:36:43 [Project.Client.ClientUI] ([32mINFO[0m):
+[34m>[0m Current card: CHAT
+12/11/2024 17:36:43 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: rahid (6)
+12/11/2024 17:36:48 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [6] Message: [hi]
+12/11/2024 17:36:48 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 6
+12/11/2024 17:36:48 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***rahid***
+12/11/2024 17:36:49 [Project.Client.Client] ([32mINFO[0m):
+[34m>[0m Received Payload: Payload[MESSAGE] Client Id [6] Message: [hello]
+12/11/2024 17:36:49 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Removing user list item for id 6
+12/11/2024 17:36:49 [Project.Client.Views.UserListPanel] ([32mINFO[0m):
+[34m>[0m Adding user to list: ***rahid***

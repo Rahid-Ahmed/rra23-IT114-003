@@ -1,0 +1,405 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You connected</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>b[2] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>c[3] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>b[2] left the Room </b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>d[4] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>d[4] left the Room </b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>e[5] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: hi
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /createroom test
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You left the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You joined the Room test</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>e[5] joined the Room test</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: hi
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: hello
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: this is a private room
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /roll 5
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="green">a rolled: 5 </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /roll 100
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="green">a rolled: 24 </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: a<font color="red"> flipped a coin and got heads </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: a<font color="blue"> flipped a coin and got tails </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /roll 100
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="green">a rolled: 29 </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <red> this text should be red#
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="red">this text should be red</font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <green> this text should be green#
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="green">this text should be green</font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <blue> this text should be blue
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: #b this text should be blue
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <blue> this text should be blue #
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <font color="blue">this text should be blue </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: <b>this text should be bold</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <i>this text should be italic</i>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <i>this text should be italic</i>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <red><u> this text is underlined and red #</u>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <font color="red"><u>this text is underlined and red </u></font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <red><u> this text is underlined and red #</u>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <red><u> this text is underlined and red </u>#
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: <font color="red"><u>this text is underlined and red </u></font>
+  </body>
+</html>
+

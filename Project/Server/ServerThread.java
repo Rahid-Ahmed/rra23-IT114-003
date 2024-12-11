@@ -130,6 +130,12 @@ public class ServerThread extends BaseServerThread {
                             unmuteCounter++;
                         }
                     }
+                    if(payload.getMessage().contains("/createroom")){
+                        currentRoom.handleCreateRoom(this, payload.getMessage().replace("/createroom", ""));
+                    }
+                    if(payload.getMessage().contains("/joinroom")){
+                        currentRoom.handleJoinRoom(this, payload.getMessage().replace("/joinroom", ""));
+                    }
                     break;
                 case ROOM_CREATE:
                     currentRoom.handleCreateRoom(this, payload.getMessage());

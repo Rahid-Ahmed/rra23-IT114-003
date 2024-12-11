@@ -1,0 +1,153 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You connected</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>You joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>b[2] left the Room </b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>d[4] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>d[4] left the Room </b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>e[5] joined the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: hi
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    a[1]: /createroom test
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>a[1] left the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    e[5]: /joinroom test
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>e[5] left the Room lobby</b>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: /flip
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: c<font color="red"> flipped a coin and got heads </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: /roll 6
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: <font color="green">c rolled: 2 </font>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: <u>this text should be underlined</u>
+  </body>
+</html>
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    c[3]: <u>this text should be underlined</u>
+  </body>
+</html>
+
