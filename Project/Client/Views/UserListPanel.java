@@ -10,8 +10,11 @@ import java.awt.event.ComponentEvent;
 import java.awt.event.ContainerEvent;
 import java.awt.event.ContainerListener;
 import java.util.HashMap;
+import java.awt.Component;
+import java.awt.color.*;
 
 import javax.swing.Box;
+import javax.swing.JEditorPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ScrollPaneConstants;
@@ -145,6 +148,7 @@ public class UserListPanel extends JPanel {
         });
     }
 
+
     /**
      * Removes a user from the list.
      *
@@ -174,4 +178,5 @@ public class UserListPanel extends JPanel {
             userListArea.repaint();
         });
     }
+
 }

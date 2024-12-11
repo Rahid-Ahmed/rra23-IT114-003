@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Objects;
 import java.util.function.Consumer;
+import java.io.File;
+import java.io.FileWriter;
+import java.util.Scanner;
 
 import Project.Server.BaseServerThread;
 import Project.Server.Room;
@@ -97,6 +100,7 @@ public class ServerThread extends BaseServerThread {
                 case CLIENT_CONNECT:
                     ConnectionPayload cp = (ConnectionPayload) payload;
                     setClientName(cp.getClientName());
+                    loadMuteList(); //rra23 12/10/24
                     break;
                 case MESSAGE:
                     currentRoom.sendMessage(this, payload.getMessage());
@@ -108,6 +112,23 @@ public class ServerThread extends BaseServerThread {
                     } 
                     if (payload.getPayloadType().equals(PayloadType.PRIVATE_MESSAGE)){ //rra23 11/25/24
                         currentRoom.privateMessage(this, payload.getMessage());
+                    }
+                    if (payload.getPayloadType().equals(PayloadType.MUTE)){ //rra23 12/10/24
+                        saveMuteList();
+                    }
+                    if (payload.getMessage().contains("/mute")){
+                        int muteCounter = 0;
+                        if (muteCounter % 2 == 0){
+                            sendMessage("a muted you");
+                            muteCounter++;
+                        }
+                    }
+                    if (payload.getMessage().contains("/unmute")){
+                        int unmuteCounter = 0;
+                        if (unmuteCounter % 2 == 0) {
+                            sendMessage("a unmuted you");
+                            unmuteCounter++;
+                        }
                     }
                     break;
                 case ROOM_CREATE:
@@ -136,6 +157,34 @@ public class ServerThread extends BaseServerThread {
             }
         } catch (Exception e) {
             System.out.println("Could not process Payload: " + payload);
+            e.printStackTrace();
+        }
+    }
+
+    public void loadMuteList(){ //rra23 12/10/24
+        String fileName = this.getClientName() + "muteList";
+        File file = new File(fileName);
+
+        if (!file.exists()) {
+            return;
+        }
+
+        try (Scanner scan = new Scanner(file)){
+            int lineNumber = 1;
+            while(scan.hasNextLine()){
+                String text = scan.nextLine();
+                String[] mutedUsers = text.split(",");
+            }
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+
+    private void saveMuteList(){ //rra23 12/10/24
+        String fileName = this.getClientName() + "muteList";
+        try(FileWriter fw = new FileWriter(fileName)){
+            fw.write("muted User,");
+        }catch(Exception e){
             e.printStackTrace();
         }
     }

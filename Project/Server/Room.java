@@ -200,8 +200,8 @@ public class Room implements AutoCloseable{
             sendMessage(sender, formattedMessage);
         }
         
-        if(message.contains("*")){
-            String formattedMessage = message.replace("*", "<i>");
+        if(message.contains("-")){ //rra23 12/2/24 changing character for italic formatting
+            String formattedMessage = message.replace("-", "<i>");
             sendMessage(sender, formattedMessage);
         }
         
@@ -276,8 +276,7 @@ public class Room implements AutoCloseable{
                 int max = Integer.parseInt(diceSettings[1]);
 
                 StringBuilder result = new StringBuilder(); 
-                result.append(String.format("%s rolled %dd%d:", client.getName(), numberOfDie, max));
-
+                result.append(String.format(" #g %s rolled %dd%d: #", client.getName(), numberOfDie, max));
                 int total = 0;
 
                 for (int i = 0; i<numberOfDie; i++){
@@ -297,7 +296,7 @@ public class Room implements AutoCloseable{
             try{
                 int max = Integer.parseInt(parts[0]);
                 int diceResult = (int) (Math.random() * max + 1);
-                String message = String.format("%s rolled: %d", client.getClientName(), diceResult); //rra23 11/24/24
+                String message = String.format(" #g%s rolled: %d #", client.getClientName(), diceResult); //rra23 11/24/24
                 client.sendRoll(client.getClientId(), message);
             } catch (Exception e){
                 client.sendRoll(client.getClientId(), "An error occured, please try again.");
@@ -312,11 +311,11 @@ public class Room implements AutoCloseable{
         Random rand = new Random();
         int number = rand.nextInt(2);
         if (number == 0){
-            String case1 = client.getClientName() + " flipped a coin and got heads";
+            String case1 = client.getClientName() + "#r flipped a coin and got heads #";
             client.sendFlip(client.getClientId(), case1);
         }
         else {
-            String case2 = client.getClientName() + " flipped a coin and got tails";
+            String case2 = client.getClientName() + "#b flipped a coin and got tails #";
             client.sendFlip(client.getClientId(), case2);
         }
     }

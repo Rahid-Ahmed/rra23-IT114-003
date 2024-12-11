@@ -197,7 +197,12 @@ public class ClientUI extends JFrame implements IConnectionEvents, IMessageEvent
         if (currentCard.ordinal() >= CardView.CHAT.ordinal()) {
             String clientName = Client.INSTANCE.getClientNameFromId(clientId);
             chatPanel.addText(String.format("%s[%s]: %s", clientName, clientId, message));
+            chatPanel.highlightLastMessage(clientId, clientName); //rra23 12/10/24
         }
+    }
+
+    public void onMuteReceive(long clientId){
+        chatPanel.highlightMutedUser(clientId, clientName); //rra23 12/10/24
     }
 
     @Override

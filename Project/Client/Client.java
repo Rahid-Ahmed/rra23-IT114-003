@@ -12,6 +12,8 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import java.io.FileWriter; //rra23 12/2/24 added import statement for persistent mute list
+
 import Project.Client.Interfaces.IConnectionEvents;
 import Project.Client.Interfaces.IClientEvents;
 import Project.Client.Interfaces.IMessageEvents;
@@ -210,18 +212,29 @@ public enum Client {
                 e.printStackTrace();
             }
             return true;
-        }else if(text.startsWith("/mute")){ //rra23 11/24/24
+        }else if(text.startsWith("/mute")){ //rra23 12/10/24
             try{
                 String mutedUser = text.replace("/mute", "").trim();
-                if (!String.join("\n", knownClients.values().stream() //code from the /users command
+                if (!String.join("\n", knownClients.values().stream()
                 .map(c -> String.format("%s(%s)", c.getClientName(), c.getClientId())).toList()).contains(mutedUser)){
                     sendMessage("User not found");
                 }
                 sendMute(this.getMyClientId());
+                String[] muteList = {mutedUser + ""};
+                String output = String.join(",", muteList);
+                String fileName = this.getClientNameFromId(getMyClientId()) + "mutelist.txt";
+                try (FileWriter fw = new FileWriter(fileName)) {
+                    fw.write(String.join(",", "MUTE LIST"));
+                    fw.write("\n");// new line
+                    fw.write(output);
+                }catch(Exception e){
+                    e.printStackTrace();
+                }
+
             }catch (Exception e){
                 e.printStackTrace();
             }
-        } else if(text.startsWith("/unmute")){ //rra23 11/25/24
+        } else if(text.startsWith("/unmute")){ //rra23 12/10/24
             try{
                 String unmutedUser = text.replace("/unmute", "").trim();
                 sendUnmute(this.getMyClientId());
@@ -446,6 +459,7 @@ public enum Client {
         inputFuture.join();
     }
 
+
     /**
      * Listens for messages from the server
      */
@@ -645,6 +659,16 @@ public enum Client {
                 case PayloadType.ROLL:
                     processMessage(payload.getClientId(), payload.getMessage());
                     break;
+                case PayloadType.MUTE: //rra23 12/10/24
+                    onMuteRecieve();
+                    String tempMessage = this.getClientNameFromId(this.getMyClientId()) + " muted you";
+                    sendMessage(tempMessage);
+                    break;
+                case PayloadType.UNMUTE:
+                    onUnmuteRecieve(); //rra23 12/10/24
+                    String tempMessage2 = this.getClientNameFromId(this.getMyClientId()) + "unmuted you";
+                    sendMessage(tempMessage2);
+                    break;
                 default:
                     break;
             }
@@ -670,6 +694,14 @@ public enum Client {
     }
 
     // payload processors
+
+    private void onMuteRecieve(){
+        
+    }
+
+    private void onUnmuteRecieve(){
+
+    }
 
     private void processRoomsList(List<String> rooms, String message){
         // invoke onReceiveRoomList callback
