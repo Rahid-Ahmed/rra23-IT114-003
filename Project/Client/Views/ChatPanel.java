@@ -30,6 +30,13 @@ import javax.swing.ScrollPaneConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.border.EmptyBorder;
 
+import java.io.FileWriter;
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.TimeZone;
+import javax.swing.JFileChooser;
+
 import Project.Client.CardView;
 import Project.Client.Client;
 import Project.Client.Interfaces.ICardControls;
@@ -167,6 +174,43 @@ public class ChatPanel extends JPanel { //rra23 11/11/24
         gbc.weighty = 1.0; // Give extra space vertically to this component
         gbc.fill = GridBagConstraints.BOTH; // Fill both horizontally and vertically
         chatArea.add(Box.createVerticalGlue(), gbc);
+
+        JButton exportChatHistory = new JButton("Export"); //rra23 12/10/24
+        input.add(exportChatHistory);
+        exportChatHistory.addActionListener((event) -> { 
+            SimpleDateFormat date = new SimpleDateFormat("yyyyMMdd_hhm a");
+            date.setTimeZone(TimeZone.getTimeZone("America/New_York"));
+            String time = date.format(new Date());
+            String Name = "Chat_History" + time;
+            File fileName = new File(Name);
+
+             try (FileWriter fw = new FileWriter(fileName)){
+                 for(Component component : chatArea.getComponents()) {
+                     if (component instanceof JEditorPane) {
+                        JEditorPane pane = (JEditorPane) component;
+                        StringBuilder text = new StringBuilder();
+                        text.append(pane.getText());
+                        fw.write(text.toString());
+                        fw.write("\n");
+                    }
+                }
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        });
+    }
+
+    public void highlightLastMessage(long clientId, String clientName){ //rra23 12/10/24
+        String displayName = "***" + clientName + "***";
+        removeUserListItem(clientId);
+        addUserListItem(clientId, displayName);
+    }
+
+    
+    public void highlightMutedUser(long clientId, String clientName){ //rra23 12/10/24
+        String displayName = "X" + clientName + "X";
+        removeUserListItem(clientId);
+        addUserListItem(clientId, displayName);
     }
 
     /**
